@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://localhost:5001/api";
+const API_BASE_URL = "https://dhaka-mall-parking-system.onrender.com/api";
 
 // Helper function to get auth headers
 const getAuthHeaders = () => {
